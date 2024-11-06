@@ -18,9 +18,13 @@
 
 - PullRequestのレビュー時などに使う。
 - レビューコメントの冒頭などにリンクの文字列をコピぺする。
+  - ![image](https://github.com/user-attachments/assets/6ac5ccfe-44d2-410a-afb5-0473b46328e3)
 
-![image](https://github.com/user-attachments/assets/6ac5ccfe-44d2-410a-afb5-0473b46328e3)
+### Saved Replies
 
+- GitHubの[Saved Replies](https://docs.github.com/ja/get-started/writing-on-github/working-with-saved-replies/creating-a-saved-reply)に登録しておくと便利。
+  - 毎回コピペする必要がなくなります。
+  - ![image](https://github.com/user-attachments/assets/62026718-b05e-4ecb-9584-94e2cb8cf834)
 
 ## 参考にした記事
 
