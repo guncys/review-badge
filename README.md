@@ -29,3 +29,4 @@
 ## 参考にした記事
 
 - [レビューコメントにメタ情報を持たせよう](https://zenn.dev/yumemi_inc/articles/review-badge)
+- [コードレビューにラベルを付けるだけでチームの心理的安全性を高めた話](https://zenn.dev/hacobell_dev/articles/code-review-comment-prefix)
